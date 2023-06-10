@@ -5,6 +5,9 @@ This repository contains the source code for an automated data pipeline built wi
 The pipeline performs daily data processing tasks, including file availability check, file download from **Google Drive API**, loading data into **MongoDB**, **Spark** data processing, and loading processed data back into MongoDB. \
 The pipeline is designed to run on an interval schedule, ensuring the timely and automated processing of data.
 
+<img width="1660" alt="Screen Shot 2023-06-10 at 08 44 28" src="https://github.com/minhquyetdo/Daily-Task/assets/135207786/69d00f41-b2a7-4800-bbee-6b4856b24ef0">
+
+
 **Technical features** in this Data Pipeline:
 |Features| Description |
 |:------|-----------:|
