@@ -87,4 +87,4 @@ pip install -r requirements.txt
 
 ## License
 
-Feel free to contribute, make improvements, or use the code as a reference for your own database management system.
+Feel free to contribute, make improvements, or use the code as a reference for your own data pipeline.
