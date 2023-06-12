@@ -19,7 +19,7 @@ The pipeline is designed to run on an interval schedule, ensuring the timely and
 |**Error Resilience**|The pipeline incorporates error handling mechanisms, such as task retries and error notifications, to handle failures and exceptions|
 |**Modularity and Flexibility**|New tasks can be added or modified without affecting the overall workflow, providing flexibility and adaptability|
 |**Scalability**|The pipeline can handle large volumes of data due to its parallel processing capabilities and distributed computing with Spark|
-|**Environment**|Docker-compose|
+|**Environment**|Docker, Docker-compose|
 
 #### Explode the repository 
 |Files| Description |
