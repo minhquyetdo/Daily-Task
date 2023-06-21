@@ -1,4 +1,4 @@
-Data Pipeline Presentation: Automated Data Processing with Apache Airflow
+Automated Data Processing with Apache Airflow
 What does this data pipeline do?
 
 This data pipeline automates the daily processing of data files by performing the following tasks in a sequential manner:
